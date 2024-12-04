@@ -8,6 +8,8 @@ Bu proje, sinema severlerin ihtiyaçlarını karşılamak için geliştirilmiş 
 - **Frontend:** Html Css
 - **Responsive:** Mobil ve diğer tüm cihazlar
 
+![](Netflix.gif)
+
 ## 📞 İletişim  
 Her türlü öneri veya sorularınız için bizimle iletişime geçebilirsiniz:  
 - **E-posta:** black123942@gmail.com
